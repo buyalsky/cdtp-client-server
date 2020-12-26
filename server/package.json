@@ -1,0 +1,16 @@
+{
+  "name": "cdtp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Burak Dursunlar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "mongoose": "^5.11.5"
+  }
+}
